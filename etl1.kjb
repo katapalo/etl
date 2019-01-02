@@ -16,7 +16,7 @@
     <server/>
     <type>ORACLE</type>
     <access>JNDI</access>
-    <database>dwh_prueba</database>
+    <database>dwh</database>
     <port>1521</port>
     <username/>
     <password>Encrypted </password>
